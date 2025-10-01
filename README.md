@@ -283,8 +283,9 @@
       <div>© <span id="y"></span> Votre Société. Tous droits réservés.</div>
       <div style="display:flex;gap:14px">
         <a href="https://www.iubenda.com/" target="_blank" rel="noopener">CGU</a>
-        <a href="/confidentialite.html">Confidentialité</a>
-       <a href="/mentions-legales.html">Mentions légales</a>
+        <a href="https://daveisa88.github.io/landingpage-immo-loi/confidentialite.html">Confidentialité</a>
+        <a href="https://daveisa88.github.io/landingpage-immo-loi/mentions-legales.html">Mentions légales</a>
+
       </div>
     </div>
   </footer>
