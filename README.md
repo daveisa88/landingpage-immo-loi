@@ -1,4 +1,4 @@
-- [Accueil](https://daveisa88.github.io/landingpage-immo-loi/)
+
 - [Confidentialité](https://daveisa88.github.io/landingpage-immo-loi/confidentialite.html)
-- [CGU](https://daveisa88.github.io/landingpage-immo-loi/cgu.html)
+  
 - [Mentions légales](https://daveisa88.github.io/landingpage-immo-loi/mentions-legales.html)
